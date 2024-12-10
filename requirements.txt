@@ -1,0 +1,3 @@
+optimizely-sdk==4.0.0
+requests==2.28.1
+more-itertools==10.5.0
